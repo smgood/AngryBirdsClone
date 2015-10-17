@@ -1,0 +1,3703 @@
+fileFormatVersion: 2
+guid: 640d824c26bb74713967fa331bfdb213
+timeCreated: 1443863845
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: INGAME_BLOCKS_2_0
+    21300002: INGAME_BLOCKS_2_1
+    21300004: INGAME_BLOCKS_2_2
+    21300006: INGAME_BLOCKS_2_3
+    21300008: INGAME_BLOCKS_2_4
+    21300010: INGAME_BLOCKS_2_5
+    21300012: INGAME_BLOCKS_2_6
+    21300014: INGAME_BLOCKS_2_7
+    21300016: INGAME_BLOCKS_2_8
+    21300018: INGAME_BLOCKS_2_9
+    21300020: INGAME_BLOCKS_2_10
+    21300022: INGAME_BLOCKS_2_11
+    21300024: INGAME_BLOCKS_2_12
+    21300026: INGAME_BLOCKS_2_13
+    21300028: INGAME_BLOCKS_2_14
+    21300030: INGAME_BLOCKS_2_15
+    21300032: INGAME_BLOCKS_2_16
+    21300034: INGAME_BLOCKS_2_17
+    21300036: INGAME_BLOCKS_2_18
+    21300038: INGAME_BLOCKS_2_19
+    21300040: INGAME_BLOCKS_2_20
+    21300042: INGAME_BLOCKS_2_21
+    21300044: INGAME_BLOCKS_2_22
+    21300046: INGAME_BLOCKS_2_23
+    21300048: INGAME_BLOCKS_2_24
+    21300050: INGAME_BLOCKS_2_25
+    21300052: INGAME_BLOCKS_2_26
+    21300054: INGAME_BLOCKS_2_27
+    21300056: INGAME_BLOCKS_2_28
+    21300058: INGAME_BLOCKS_2_29
+    21300060: INGAME_BLOCKS_2_30
+    21300062: INGAME_BLOCKS_2_31
+    21300064: INGAME_BLOCKS_2_32
+    21300066: INGAME_BLOCKS_2_33
+    21300068: INGAME_BLOCKS_2_34
+    21300070: INGAME_BLOCKS_2_35
+    21300072: INGAME_BLOCKS_2_36
+    21300074: INGAME_BLOCKS_2_37
+    21300076: INGAME_BLOCKS_2_38
+    21300078: INGAME_BLOCKS_2_39
+    21300080: INGAME_BLOCKS_2_40
+    21300082: INGAME_BLOCKS_2_41
+    21300084: INGAME_BLOCKS_2_42
+    21300086: INGAME_BLOCKS_2_43
+    21300088: INGAME_BLOCKS_2_44
+    21300090: INGAME_BLOCKS_2_45
+    21300092: INGAME_BLOCKS_2_46
+    21300094: INGAME_BLOCKS_2_47
+    21300096: INGAME_BLOCKS_2_48
+    21300098: INGAME_BLOCKS_2_49
+    21300100: INGAME_BLOCKS_2_50
+    21300102: INGAME_BLOCKS_2_51
+    21300104: INGAME_BLOCKS_2_52
+    21300106: INGAME_BLOCKS_2_53
+    21300108: INGAME_BLOCKS_2_54
+    21300110: INGAME_BLOCKS_2_55
+    21300112: INGAME_BLOCKS_2_56
+    21300114: INGAME_BLOCKS_2_57
+    21300116: INGAME_BLOCKS_2_58
+    21300118: INGAME_BLOCKS_2_59
+    21300120: INGAME_BLOCKS_2_60
+    21300122: INGAME_BLOCKS_2_61
+    21300124: INGAME_BLOCKS_2_62
+    21300126: INGAME_BLOCKS_2_63
+    21300128: INGAME_BLOCKS_2_64
+    21300130: INGAME_BLOCKS_2_65
+    21300132: INGAME_BLOCKS_2_66
+    21300134: INGAME_BLOCKS_2_67
+    21300136: INGAME_BLOCKS_2_68
+    21300138: INGAME_BLOCKS_2_69
+    21300140: INGAME_BLOCKS_2_70
+    21300142: INGAME_BLOCKS_2_71
+    21300144: INGAME_BLOCKS_2_72
+    21300146: INGAME_BLOCKS_2_73
+    21300148: INGAME_BLOCKS_2_74
+    21300150: INGAME_BLOCKS_2_75
+    21300152: INGAME_BLOCKS_2_76
+    21300154: INGAME_BLOCKS_2_77
+    21300156: INGAME_BLOCKS_2_78
+    21300158: INGAME_BLOCKS_2_79
+    21300160: INGAME_BLOCKS_2_80
+    21300162: INGAME_BLOCKS_2_81
+    21300164: INGAME_BLOCKS_2_82
+    21300166: INGAME_BLOCKS_2_83
+    21300168: INGAME_BLOCKS_2_84
+    21300170: INGAME_BLOCKS_2_85
+    21300172: INGAME_BLOCKS_2_86
+    21300174: INGAME_BLOCKS_2_87
+    21300176: INGAME_BLOCKS_2_88
+    21300178: INGAME_BLOCKS_2_89
+    21300180: INGAME_BLOCKS_2_90
+    21300182: INGAME_BLOCKS_2_91
+    21300184: INGAME_BLOCKS_2_92
+    21300186: INGAME_BLOCKS_2_93
+    21300188: INGAME_BLOCKS_2_94
+    21300190: INGAME_BLOCKS_2_95
+    21300192: INGAME_BLOCKS_2_96
+    21300194: INGAME_BLOCKS_2_97
+    21300196: INGAME_BLOCKS_2_98
+    21300198: INGAME_BLOCKS_2_99
+    21300200: INGAME_BLOCKS_2_100
+    21300202: INGAME_BLOCKS_2_101
+    21300204: INGAME_BLOCKS_2_102
+    21300206: INGAME_BLOCKS_2_103
+    21300208: INGAME_BLOCKS_2_104
+    21300210: INGAME_BLOCKS_2_105
+    21300212: INGAME_BLOCKS_2_106
+    21300214: INGAME_BLOCKS_2_107
+    21300216: INGAME_BLOCKS_2_108
+    21300218: INGAME_BLOCKS_2_109
+    21300220: INGAME_BLOCKS_2_110
+    21300222: INGAME_BLOCKS_2_111
+    21300224: INGAME_BLOCKS_2_112
+    21300226: INGAME_BLOCKS_2_113
+    21300228: INGAME_BLOCKS_2_114
+    21300230: INGAME_BLOCKS_2_115
+    21300232: INGAME_BLOCKS_2_116
+    21300234: INGAME_BLOCKS_2_117
+    21300236: INGAME_BLOCKS_2_118
+    21300238: INGAME_BLOCKS_2_119
+    21300240: INGAME_BLOCKS_2_120
+    21300242: INGAME_BLOCKS_2_121
+    21300244: INGAME_BLOCKS_2_122
+    21300246: INGAME_BLOCKS_2_123
+    21300248: INGAME_BLOCKS_2_124
+    21300250: INGAME_BLOCKS_2_125
+    21300252: INGAME_BLOCKS_2_126
+    21300254: INGAME_BLOCKS_2_127
+    21300256: INGAME_BLOCKS_2_128
+    21300258: INGAME_BLOCKS_2_129
+    21300260: INGAME_BLOCKS_2_130
+    21300262: INGAME_BLOCKS_2_131
+    21300264: INGAME_BLOCKS_2_132
+    21300266: INGAME_BLOCKS_2_133
+    21300268: INGAME_BLOCKS_2_134
+    21300270: INGAME_BLOCKS_2_135
+    21300272: INGAME_BLOCKS_2_136
+    21300274: INGAME_BLOCKS_2_137
+    21300276: INGAME_BLOCKS_2_138
+    21300278: INGAME_BLOCKS_2_139
+    21300280: INGAME_BLOCKS_2_140
+    21300282: INGAME_BLOCKS_2_141
+    21300284: INGAME_BLOCKS_2_142
+    21300286: INGAME_BLOCKS_2_143
+    21300288: INGAME_BLOCKS_2_144
+    21300290: INGAME_BLOCKS_2_145
+    21300292: INGAME_BLOCKS_2_146
+    21300294: INGAME_BLOCKS_2_147
+    21300296: INGAME_BLOCKS_2_148
+    21300298: INGAME_BLOCKS_2_149
+    21300300: INGAME_BLOCKS_2_150
+    21300302: INGAME_BLOCKS_2_151
+    21300304: INGAME_BLOCKS_2_152
+    21300306: INGAME_BLOCKS_2_153
+    21300308: INGAME_BLOCKS_2_154
+    21300310: INGAME_BLOCKS_2_155
+    21300312: INGAME_BLOCKS_2_156
+    21300314: INGAME_BLOCKS_2_157
+    21300316: INGAME_BLOCKS_2_158
+    21300318: INGAME_BLOCKS_2_159
+    21300320: INGAME_BLOCKS_2_160
+    21300322: INGAME_BLOCKS_2_161
+    21300324: INGAME_BLOCKS_2_162
+    21300326: INGAME_BLOCKS_2_163
+    21300328: INGAME_BLOCKS_2_164
+    21300330: INGAME_BLOCKS_2_165
+    21300332: INGAME_BLOCKS_2_166
+    21300334: INGAME_BLOCKS_2_167
+    21300336: INGAME_BLOCKS_2_168
+    21300338: INGAME_BLOCKS_2_169
+    21300340: INGAME_BLOCKS_2_170
+    21300342: INGAME_BLOCKS_2_171
+    21300344: INGAME_BLOCKS_2_172
+    21300346: INGAME_BLOCKS_2_173
+    21300348: INGAME_BLOCKS_2_174
+    21300350: INGAME_BLOCKS_2_175
+    21300352: INGAME_BLOCKS_2_176
+    21300354: INGAME_BLOCKS_2_177
+    21300356: INGAME_BLOCKS_2_178
+    21300358: INGAME_BLOCKS_2_179
+    21300360: INGAME_BLOCKS_2_180
+    21300362: INGAME_BLOCKS_2_181
+    21300364: INGAME_BLOCKS_2_182
+    21300366: INGAME_BLOCKS_2_183
+    21300368: INGAME_BLOCKS_2_184
+    21300370: INGAME_BLOCKS_2_185
+    21300372: INGAME_BLOCKS_2_186
+    21300374: INGAME_BLOCKS_2_187
+    21300376: INGAME_BLOCKS_2_188
+    21300378: INGAME_BLOCKS_2_189
+    21300380: INGAME_BLOCKS_2_190
+    21300382: INGAME_BLOCKS_2_191
+    21300384: INGAME_BLOCKS_2_192
+    21300386: INGAME_BLOCKS_2_193
+    21300388: INGAME_BLOCKS_2_194
+    21300390: INGAME_BLOCKS_2_195
+    21300392: INGAME_BLOCKS_2_196
+    21300394: INGAME_BLOCKS_2_197
+    21300396: INGAME_BLOCKS_2_198
+    21300398: INGAME_BLOCKS_2_199
+    21300400: INGAME_BLOCKS_2_200
+    21300402: INGAME_BLOCKS_2_201
+    21300404: INGAME_BLOCKS_2_202
+    21300406: INGAME_BLOCKS_2_203
+    21300408: INGAME_BLOCKS_2_204
+    21300410: INGAME_BLOCKS_2_205
+    21300412: INGAME_BLOCKS_2_206
+    21300414: INGAME_BLOCKS_2_207
+    21300416: INGAME_BLOCKS_2_208
+    21300418: INGAME_BLOCKS_2_209
+    21300420: INGAME_BLOCKS_2_210
+    21300422: INGAME_BLOCKS_2_211
+    21300424: INGAME_BLOCKS_2_212
+    21300426: INGAME_BLOCKS_2_213
+    21300428: INGAME_BLOCKS_2_214
+    21300430: INGAME_BLOCKS_2_215
+    21300432: INGAME_BLOCKS_2_216
+    21300434: INGAME_BLOCKS_2_217
+    21300436: INGAME_BLOCKS_2_218
+    21300438: INGAME_BLOCKS_2_219
+    21300440: INGAME_BLOCKS_2_220
+    21300442: INGAME_BLOCKS_2_221
+    21300444: INGAME_BLOCKS_2_222
+    21300446: INGAME_BLOCKS_2_223
+    21300448: INGAME_BLOCKS_2_224
+    21300450: INGAME_BLOCKS_2_225
+    21300452: INGAME_BLOCKS_2_226
+    21300454: INGAME_BLOCKS_2_227
+    21300456: INGAME_BLOCKS_2_228
+    21300458: INGAME_BLOCKS_2_229
+    21300460: INGAME_BLOCKS_2_230
+    21300462: INGAME_BLOCKS_2_231
+    21300464: INGAME_BLOCKS_2_232
+    21300466: INGAME_BLOCKS_2_233
+    21300468: INGAME_BLOCKS_2_234
+    21300470: INGAME_BLOCKS_2_235
+    21300472: INGAME_BLOCKS_2_236
+    21300474: INGAME_BLOCKS_2_237
+    21300476: INGAME_BLOCKS_2_238
+    21300478: INGAME_BLOCKS_2_239
+    21300480: INGAME_BLOCKS_2_240
+    21300482: INGAME_BLOCKS_2_241
+    21300484: INGAME_BLOCKS_2_242
+    21300486: INGAME_BLOCKS_2_243
+    21300488: INGAME_BLOCKS_2_244
+    21300490: INGAME_BLOCKS_2_245
+    21300492: INGAME_BLOCKS_2_246
+    21300494: INGAME_BLOCKS_2_247
+    21300496: INGAME_BLOCKS_2_248
+    21300498: INGAME_BLOCKS_2_249
+    21300500: INGAME_BLOCKS_2_250
+    21300502: INGAME_BLOCKS_2_251
+    21300504: INGAME_BLOCKS_2_252
+    21300506: INGAME_BLOCKS_2_253
+    21300508: INGAME_BLOCKS_2_254
+    21300510: INGAME_BLOCKS_2_255
+    21300512: INGAME_BLOCKS_2_256
+    21300514: INGAME_BLOCKS_2_257
+    21300516: INGAME_BLOCKS_2_258
+    21300518: INGAME_BLOCKS_2_259
+    21300520: INGAME_BLOCKS_2_260
+    21300522: INGAME_BLOCKS_2_261
+    21300524: INGAME_BLOCKS_2_262
+    21300526: INGAME_BLOCKS_2_263
+    21300528: INGAME_BLOCKS_2_264
+    21300530: INGAME_BLOCKS_2_265
+    21300532: INGAME_BLOCKS_2_266
+    21300534: INGAME_BLOCKS_2_267
+    21300536: INGAME_BLOCKS_2_268
+    21300538: INGAME_BLOCKS_2_269
+    21300540: INGAME_BLOCKS_2_270
+    21300542: INGAME_BLOCKS_2_271
+    21300544: INGAME_BLOCKS_2_272
+    21300546: INGAME_BLOCKS_2_273
+    21300548: INGAME_BLOCKS_2_274
+    21300550: INGAME_BLOCKS_2_275
+    21300552: INGAME_BLOCKS_2_276
+    21300554: INGAME_BLOCKS_2_277
+    21300556: INGAME_BLOCKS_2_278
+    21300558: INGAME_BLOCKS_2_279
+    21300560: INGAME_BLOCKS_2_280
+    21300562: INGAME_BLOCKS_2_281
+    21300564: INGAME_BLOCKS_2_282
+    21300566: INGAME_BLOCKS_2_283
+    21300568: INGAME_BLOCKS_2_284
+    21300570: INGAME_BLOCKS_2_285
+    21300572: INGAME_BLOCKS_2_286
+    21300574: INGAME_BLOCKS_2_287
+    21300576: INGAME_BLOCKS_2_288
+    21300578: INGAME_BLOCKS_2_289
+    21300580: INGAME_BLOCKS_2_290
+    21300582: INGAME_BLOCKS_2_291
+    21300584: INGAME_BLOCKS_2_292
+    21300586: INGAME_BLOCKS_2_293
+    21300588: INGAME_BLOCKS_2_294
+    21300590: INGAME_BLOCKS_2_295
+    21300592: INGAME_BLOCKS_2_296
+    21300594: INGAME_BLOCKS_2_297
+    21300596: INGAME_BLOCKS_2_298
+    21300598: INGAME_BLOCKS_2_299
+    21300600: INGAME_BLOCKS_2_300
+    21300602: INGAME_BLOCKS_2_301
+    21300604: INGAME_BLOCKS_2_302
+    21300606: INGAME_BLOCKS_2_303
+    21300608: INGAME_BLOCKS_vertical_0
+    21300610: INGAME_BLOCKS_vertical_1
+    21300612: INGAME_BLOCKS_vertical_2
+    21300614: INGAME_BLOCKS_vertical_3
+    21300616: INGAME_BLOCKS_vertical_4
+    21300618: INGAME_BLOCKS_vertical_5
+    21300620: INGAME_BLOCKS_vertical_6
+    21300622: INGAME_BLOCKS_vertical_7
+    21300624: INGAME_BLOCKS_vertical_8
+    21300626: INGAME_BLOCKS_vertical_9
+    21300628: INGAME_BLOCKS_vertical_10
+    21300630: INGAME_BLOCKS_vertical_11
+    21300632: INGAME_BLOCKS_vertical_12
+    21300634: INGAME_BLOCKS_vertical_13
+    21300636: INGAME_BLOCKS_vertical_14
+    21300638: INGAME_BLOCKS_vertical_15
+    21300640: INGAME_BLOCKS_vertical_16
+    21300642: INGAME_BLOCKS_vertical_17
+    21300644: INGAME_BLOCKS_vertical_18
+    21300646: INGAME_BLOCKS_vertical_19
+    21300648: INGAME_BLOCKS_vertical_20
+    21300650: INGAME_BLOCKS_vertical_21
+    21300652: INGAME_BLOCKS_vertical_22
+    21300654: INGAME_BLOCKS_vertical_23
+    21300656: INGAME_BLOCKS_vertical_24
+    21300658: INGAME_BLOCKS_vertical_25
+    21300660: INGAME_BLOCKS_vertical_26
+    21300662: INGAME_BLOCKS_vertical_27
+    21300664: INGAME_BLOCKS_vertical_28
+    21300666: INGAME_BLOCKS_vertical_29
+    21300668: INGAME_BLOCKS_vertical_30
+    21300670: INGAME_BLOCKS_vertical_31
+    21300672: INGAME_BLOCKS_vertical_32
+    21300674: INGAME_BLOCKS_vertical_33
+    21300676: INGAME_BLOCKS_vertical_34
+    21300678: INGAME_BLOCKS_vertical_35
+    21300680: INGAME_BLOCKS_vertical_36
+    21300682: INGAME_BLOCKS_vertical_37
+    21300684: INGAME_BLOCKS_vertical_38
+    21300686: INGAME_BLOCKS_vertical_39
+    21300688: INGAME_BLOCKS_vertical_40
+    21300690: INGAME_BLOCKS_vertical_41
+    21300692: INGAME_BLOCKS_vertical_42
+    21300694: INGAME_BLOCKS_vertical_43
+    21300696: INGAME_BLOCKS_vertical_44
+    21300698: INGAME_BLOCKS_vertical_45
+    21300700: INGAME_BLOCKS_vertical_46
+    21300702: INGAME_BLOCKS_vertical_47
+    21300704: INGAME_BLOCKS_vertical_48
+    21300706: INGAME_BLOCKS_vertical_49
+    21300708: INGAME_BLOCKS_vertical_50
+    21300710: INGAME_BLOCKS_vertical_51
+    21300712: INGAME_BLOCKS_vertical_52
+    21300714: INGAME_BLOCKS_vertical_53
+    21300716: INGAME_BLOCKS_vertical_54
+    21300718: INGAME_BLOCKS_vertical_55
+    21300720: INGAME_BLOCKS_vertical_56
+    21300722: INGAME_BLOCKS_vertical_57
+    21300724: INGAME_BLOCKS_vertical_58
+    21300726: INGAME_BLOCKS_vertical_59
+    21300728: INGAME_BLOCKS_vertical_60
+    21300730: INGAME_BLOCKS_vertical_61
+    21300732: INGAME_BLOCKS_vertical_62
+    21300734: INGAME_BLOCKS_vertical_63
+    21300736: INGAME_BLOCKS_vertical_64
+    21300738: INGAME_BLOCKS_vertical_65
+    21300740: INGAME_BLOCKS_vertical_66
+    21300742: INGAME_BLOCKS_vertical_67
+    21300744: INGAME_BLOCKS_vertical_68
+    21300746: INGAME_BLOCKS_vertical_69
+    21300748: INGAME_BLOCKS_vertical_70
+    21300750: INGAME_BLOCKS_vertical_71
+    21300752: INGAME_BLOCKS_vertical_72
+    21300754: INGAME_BLOCKS_vertical_73
+    21300756: INGAME_BLOCKS_vertical_74
+    21300758: INGAME_BLOCKS_vertical_75
+    21300760: INGAME_BLOCKS_vertical_76
+    21300762: INGAME_BLOCKS_vertical_77
+    21300764: INGAME_BLOCKS_vertical_78
+    21300766: INGAME_BLOCKS_vertical_79
+    21300768: INGAME_BLOCKS_vertical_80
+    21300770: INGAME_BLOCKS_vertical_81
+    21300772: INGAME_BLOCKS_vertical_82
+    21300774: INGAME_BLOCKS_vertical_83
+    21300776: INGAME_BLOCKS_vertical_84
+    21300778: INGAME_BLOCKS_vertical_85
+    21300780: INGAME_BLOCKS_vertical_86
+    21300782: INGAME_BLOCKS_vertical_87
+    21300784: INGAME_BLOCKS_vertical_88
+    21300786: INGAME_BLOCKS_vertical_89
+    21300788: INGAME_BLOCKS_vertical_90
+    21300790: INGAME_BLOCKS_vertical_91
+    21300792: INGAME_BLOCKS_vertical_92
+    21300794: INGAME_BLOCKS_vertical_93
+    21300796: INGAME_BLOCKS_vertical_94
+    21300798: INGAME_BLOCKS_vertical_95
+    21300800: INGAME_BLOCKS_vertical_96
+    21300802: INGAME_BLOCKS_vertical_97
+    21300804: INGAME_BLOCKS_vertical_98
+    21300806: INGAME_BLOCKS_vertical_99
+    21300808: INGAME_BLOCKS_vertical_100
+    21300810: INGAME_BLOCKS_vertical_101
+    21300812: INGAME_BLOCKS_vertical_102
+    21300814: INGAME_BLOCKS_vertical_103
+    21300816: INGAME_BLOCKS_vertical_104
+    21300818: INGAME_BLOCKS_vertical_105
+    21300820: INGAME_BLOCKS_vertical_106
+    21300822: INGAME_BLOCKS_vertical_107
+    21300824: INGAME_BLOCKS_vertical_108
+    21300826: INGAME_BLOCKS_vertical_109
+    21300828: INGAME_BLOCKS_vertical_110
+    21300830: INGAME_BLOCKS_vertical_111
+    21300832: INGAME_BLOCKS_vertical_112
+    21300834: INGAME_BLOCKS_vertical_113
+    21300836: INGAME_BLOCKS_vertical_114
+    21300838: INGAME_BLOCKS_vertical_115
+    21300840: INGAME_BLOCKS_vertical_116
+    21300842: INGAME_BLOCKS_vertical_117
+    21300844: INGAME_BLOCKS_vertical_118
+    21300846: INGAME_BLOCKS_vertical_119
+    21300848: INGAME_BLOCKS_vertical_120
+    21300850: INGAME_BLOCKS_vertical_121
+    21300852: INGAME_BLOCKS_vertical_122
+    21300854: INGAME_BLOCKS_vertical_123
+    21300856: INGAME_BLOCKS_vertical_124
+    21300858: INGAME_BLOCKS_vertical_125
+    21300860: INGAME_BLOCKS_vertical_126
+    21300862: INGAME_BLOCKS_vertical_127
+    21300864: INGAME_BLOCKS_vertical_128
+    21300866: INGAME_BLOCKS_vertical_129
+    21300868: INGAME_BLOCKS_vertical_130
+    21300870: INGAME_BLOCKS_vertical_131
+    21300872: INGAME_BLOCKS_vertical_132
+    21300874: INGAME_BLOCKS_vertical_133
+    21300876: INGAME_BLOCKS_vertical_134
+    21300878: INGAME_BLOCKS_vertical_135
+    21300880: INGAME_BLOCKS_vertical_136
+    21300882: INGAME_BLOCKS_vertical_137
+    21300884: INGAME_BLOCKS_vertical_138
+    21300886: INGAME_BLOCKS_vertical_139
+    21300888: INGAME_BLOCKS_vertical_140
+    21300890: INGAME_BLOCKS_vertical_141
+    21300892: INGAME_BLOCKS_vertical_142
+    21300894: INGAME_BLOCKS_vertical_143
+    21300896: INGAME_BLOCKS_vertical_144
+    21300898: INGAME_BLOCKS_vertical_145
+    21300900: INGAME_BLOCKS_vertical_146
+    21300902: INGAME_BLOCKS_vertical_147
+    21300904: INGAME_BLOCKS_vertical_148
+    21300906: INGAME_BLOCKS_vertical_149
+    21300908: INGAME_BLOCKS_vertical_150
+    21300910: INGAME_BLOCKS_vertical_151
+    21300912: INGAME_BLOCKS_vertical_152
+    21300914: INGAME_BLOCKS_vertical_153
+    21300916: INGAME_BLOCKS_vertical_154
+    21300918: INGAME_BLOCKS_vertical_155
+    21300920: INGAME_BLOCKS_vertical_156
+    21300922: INGAME_BLOCKS_vertical_157
+    21300924: INGAME_BLOCKS_vertical_158
+    21300926: INGAME_BLOCKS_vertical_159
+    21300928: INGAME_BLOCKS_vertical_160
+    21300930: INGAME_BLOCKS_vertical_161
+    21300932: INGAME_BLOCKS_vertical_162
+    21300934: INGAME_BLOCKS_vertical_163
+    21300936: INGAME_BLOCKS_vertical_164
+    21300938: INGAME_BLOCKS_vertical_165
+    21300940: INGAME_BLOCKS_vertical_166
+    21300942: INGAME_BLOCKS_vertical_167
+    21300944: INGAME_BLOCKS_vertical_168
+    21300946: INGAME_BLOCKS_vertical_169
+    21300948: INGAME_BLOCKS_vertical_170
+    21300950: INGAME_BLOCKS_vertical_171
+    21300952: INGAME_BLOCKS_vertical_172
+    21300954: INGAME_BLOCKS_vertical_173
+    21300956: INGAME_BLOCKS_vertical_174
+    21300958: INGAME_BLOCKS_vertical_175
+    21300960: INGAME_BLOCKS_vertical_176
+    21300962: INGAME_BLOCKS_vertical_177
+    21300964: INGAME_BLOCKS_vertical_178
+    21300966: INGAME_BLOCKS_vertical_179
+    21300968: INGAME_BLOCKS_vertical_180
+    21300970: INGAME_BLOCKS_vertical_181
+    21300972: INGAME_BLOCKS_vertical_182
+    21300974: INGAME_BLOCKS_vertical_183
+    21300976: INGAME_BLOCKS_vertical_184
+    21300978: INGAME_BLOCKS_vertical_185
+    21300980: INGAME_BLOCKS_vertical_186
+    21300982: INGAME_BLOCKS_vertical_187
+    21300984: INGAME_BLOCKS_vertical_188
+    21300986: INGAME_BLOCKS_vertical_189
+    21300988: INGAME_BLOCKS_vertical_190
+    21300990: INGAME_BLOCKS_vertical_191
+    21300992: INGAME_BLOCKS_vertical_192
+    21300994: INGAME_BLOCKS_vertical_193
+    21300996: INGAME_BLOCKS_vertical_194
+    21300998: INGAME_BLOCKS_vertical_195
+    21301000: INGAME_BLOCKS_vertical_196
+    21301002: INGAME_BLOCKS_vertical_197
+    21301004: INGAME_BLOCKS_vertical_198
+    21301006: INGAME_BLOCKS_vertical_199
+    21301008: INGAME_BLOCKS_vertical_200
+    21301010: INGAME_BLOCKS_vertical_201
+    21301012: INGAME_BLOCKS_vertical_202
+    21301014: INGAME_BLOCKS_vertical_203
+    21301016: INGAME_BLOCKS_vertical_204
+    21301018: INGAME_BLOCKS_vertical_205
+    21301020: INGAME_BLOCKS_vertical_206
+    21301022: INGAME_BLOCKS_vertical_207
+    21301024: INGAME_BLOCKS_vertical_208
+    21301026: INGAME_BLOCKS_vertical_209
+    21301028: INGAME_BLOCKS_vertical_210
+    21301030: INGAME_BLOCKS_vertical_211
+    21301032: INGAME_BLOCKS_vertical_212
+    21301034: INGAME_BLOCKS_vertical_213
+    21301036: INGAME_BLOCKS_vertical_214
+    21301038: INGAME_BLOCKS_vertical_215
+    21301040: INGAME_BLOCKS_vertical_216
+    21301042: INGAME_BLOCKS_vertical_217
+    21301044: INGAME_BLOCKS_vertical_218
+    21301046: INGAME_BLOCKS_vertical_219
+    21301048: INGAME_BLOCKS_vertical_220
+    21301050: INGAME_BLOCKS_vertical_221
+    21301052: INGAME_BLOCKS_vertical_222
+    21301054: INGAME_BLOCKS_vertical_223
+    21301056: INGAME_BLOCKS_vertical_224
+    21301058: INGAME_BLOCKS_vertical_225
+    21301060: INGAME_BLOCKS_vertical_226
+    21301062: INGAME_BLOCKS_vertical_227
+    21301064: INGAME_BLOCKS_vertical_228
+    21301066: INGAME_BLOCKS_vertical_229
+    21301068: INGAME_BLOCKS_vertical_230
+    21301070: INGAME_BLOCKS_vertical_231
+    21301072: INGAME_BLOCKS_vertical_232
+    21301074: INGAME_BLOCKS_vertical_233
+    21301076: INGAME_BLOCKS_vertical_234
+    21301078: INGAME_BLOCKS_vertical_235
+    21301080: INGAME_BLOCKS_vertical_236
+    21301082: INGAME_BLOCKS_vertical_237
+    21301084: INGAME_BLOCKS_vertical_238
+    21301086: INGAME_BLOCKS_vertical_239
+    21301088: INGAME_BLOCKS_vertical_240
+    21301090: INGAME_BLOCKS_vertical_241
+    21301092: INGAME_BLOCKS_vertical_242
+    21301094: INGAME_BLOCKS_vertical_243
+    21301096: INGAME_BLOCKS_vertical_244
+    21301098: INGAME_BLOCKS_vertical_245
+    21301100: INGAME_BLOCKS_vertical_246
+    21301102: INGAME_BLOCKS_vertical_247
+    21301104: INGAME_BLOCKS_vertical_248
+    21301106: INGAME_BLOCKS_vertical_249
+    21301108: INGAME_BLOCKS_vertical_250
+    21301110: INGAME_BLOCKS_vertical_251
+    21301112: INGAME_BLOCKS_vertical_252
+    21301114: INGAME_BLOCKS_vertical_253
+    21301116: INGAME_BLOCKS_vertical_254
+    21301118: INGAME_BLOCKS_vertical_255
+    21301120: INGAME_BLOCKS_vertical_256
+    21301122: INGAME_BLOCKS_vertical_257
+    21301124: INGAME_BLOCKS_vertical_258
+    21301126: INGAME_BLOCKS_vertical_259
+    21301128: INGAME_BLOCKS_vertical_260
+    21301130: INGAME_BLOCKS_vertical_261
+    21301132: INGAME_BLOCKS_vertical_262
+    21301134: INGAME_BLOCKS_vertical_263
+    21301136: INGAME_BLOCKS_vertical_264
+    21301138: INGAME_BLOCKS_vertical_265
+    21301140: INGAME_BLOCKS_vertical_266
+    21301142: INGAME_BLOCKS_vertical_267
+    21301144: INGAME_BLOCKS_vertical_268
+    21301146: INGAME_BLOCKS_vertical_269
+    21301148: INGAME_BLOCKS_vertical_270
+    21301150: INGAME_BLOCKS_vertical_271
+    21301152: INGAME_BLOCKS_vertical_272
+    21301154: INGAME_BLOCKS_vertical_273
+    21301156: INGAME_BLOCKS_vertical_274
+    21301158: INGAME_BLOCKS_vertical_275
+    21301160: INGAME_BLOCKS_vertical_276
+    21301162: INGAME_BLOCKS_vertical_277
+    21301164: INGAME_BLOCKS_vertical_278
+    21301166: INGAME_BLOCKS_vertical_279
+    21301168: INGAME_BLOCKS_vertical_280
+    21301170: INGAME_BLOCKS_vertical_281
+    21301172: INGAME_BLOCKS_vertical_282
+    21301174: INGAME_BLOCKS_vertical_283
+    21301176: INGAME_BLOCKS_vertical_284
+    21301178: INGAME_BLOCKS_vertical_285
+    21301180: INGAME_BLOCKS_vertical_286
+    21301182: INGAME_BLOCKS_vertical_287
+    21301184: INGAME_BLOCKS_vertical_288
+    21301186: INGAME_BLOCKS_vertical_289
+    21301188: INGAME_BLOCKS_vertical_290
+    21301190: INGAME_BLOCKS_vertical_291
+    21301192: INGAME_BLOCKS_vertical_292
+    21301194: INGAME_BLOCKS_vertical_293
+    21301196: INGAME_BLOCKS_vertical_294
+    21301198: INGAME_BLOCKS_vertical_295
+    21301200: INGAME_BLOCKS_vertical_296
+    21301202: INGAME_BLOCKS_vertical_297
+    21301204: INGAME_BLOCKS_vertical_298
+    21301206: INGAME_BLOCKS_vertical_299
+    21301208: INGAME_BLOCKS_vertical_300
+    21301210: INGAME_BLOCKS_vertical_301
+    21301212: INGAME_BLOCKS_vertical_302
+    21301214: INGAME_BLOCKS_vertical_303
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: INGAME_BLOCKS_vertical_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1054
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1054
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1051
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1031
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1031
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1055
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1055
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1053
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1050
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1050
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1047
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1049
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_12
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1053
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1031
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 909
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 909
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_16
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 909
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_17
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 909
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_18
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 909
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_19
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 909
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_20
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1047
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_21
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1048
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_22
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1047
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_23
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1047
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_24
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1047
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_25
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1047
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_26
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1047
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_27
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1047
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_28
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1047
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_29
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1047
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1009
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1009
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 954
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1011
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_34
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1011
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_35
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 966
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1004
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1006
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_38
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1010
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_39
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 990
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_40
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1005
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_41
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1005
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_42
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1005
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_43
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1005
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_44
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1005
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_45
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1005
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_46
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1005
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_47
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1005
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_48
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1005
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_49
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1005
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_50
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1005
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_51
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1006
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_52
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1006
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_53
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1006
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 924
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 933
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 919
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_57
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 964
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_58
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 967
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_59
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 949
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_60
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 665
+        width: 153
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_61
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 835
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_62
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 835
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_63
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 835
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_64
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 835
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_65
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 835
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_66
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 920
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_67
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 920
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_68
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 920
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_69
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 920
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_70
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 920
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_71
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 963
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_72
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 963
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_73
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 963
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_74
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 963
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_75
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 877
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_76
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 855
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_77
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 881
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_78
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 919
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_79
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 924
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_80
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 908
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_81
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 920
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_82
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 920
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_83
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 920
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_84
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 920
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_85
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 920
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_86
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 920
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_87
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 920
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 84
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 834
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_90
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 834
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_91
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 881
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_92
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 867
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_93
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 835
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_94
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 835
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_95
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 835
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_96
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 835
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_97
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 835
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_98
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 835
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_99
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 877
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_100
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 800
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_101
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 777
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_102
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 796
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_103
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 838
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_104
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 826
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_105
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 835
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_106
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 835
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_107
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 835
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_108
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 835
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_109
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 835
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_110
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 835
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_111
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 723
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_112
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 749
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_113
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 749
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_114
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 796
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_115
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 785
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_116
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 665
+        width: 21
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_117
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 665
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_118
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 665
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_119
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 665
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_120
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 665
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_121
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 750
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_122
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 750
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_123
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 750
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_124
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 750
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_125
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 750
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_126
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 750
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_127
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 750
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_128
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 750
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_129
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 750
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_130
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 750
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_131
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 699
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_132
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 711
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_133
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 753
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_134
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 744
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_135
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 646
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_136
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 664
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_137
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 664
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_138
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 709
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_139
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 703
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_140
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 665
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_141
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 665
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_142
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 665
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_143
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 665
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_144
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 665
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_145
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 665
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_146
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 665
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_147
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 665
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_148
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 665
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_149
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 665
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_150
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 665
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_151
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 665
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_152
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 420
+        width: 83
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_153
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 621
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_154
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 626
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_155
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 666
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_156
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 662
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_157
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 495
+        width: 132
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_158
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 569
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_159
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 541
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_160
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 579
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_161
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 579
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_162
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 623
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_163
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 621
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_164
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_165
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_166
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_167
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_168
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_169
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_170
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_171
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_172
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_173
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_174
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_175
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_176
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_177
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_178
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_179
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_180
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_181
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 495
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_182
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 546
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_183
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 580
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_184
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 579
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_185
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 492
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_186
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 471
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_187
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 456
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_188
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 494
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_189
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 494
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_190
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 537
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_191
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 537
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_192
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 494
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_193
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 495
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_194
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 415
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_195
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 396
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_196
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 412
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_197
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 409
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_198
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 409
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_199
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 451
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_200
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 451
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_201
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 451
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_202
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 451
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_203
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 451
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_204
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 452
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_205
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 452
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_206
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 452
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_207
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 452
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_208
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 452
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_209
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 452
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_210
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 452
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_211
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 452
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_212
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 452
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_213
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 452
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_214
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 84
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_215
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 333
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_216
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 369
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_217
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 408
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_218
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 408
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_219
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 408
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_220
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 408
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_221
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 408
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_222
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 408
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_223
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 408
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_224
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 408
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_225
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 324
+        width: 129
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_226
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 408
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_227
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 408
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_228
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 408
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_229
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 409
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_230
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 251
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_231
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 321
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_232
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 324
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_233
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 324
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_234
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 324
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_235
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 324
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_236
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 324
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_237
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 324
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_238
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 324
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_239
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 324
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_240
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 324
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_241
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 324
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_242
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 324
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_243
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 324
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_244
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 324
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_245
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 324
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_246
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 324
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_247
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 246
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_248
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 246
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_249
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 246
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_250
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 245
+        width: 148
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_251
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 246
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_252
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 246
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_253
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 246
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_254
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 290
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_255
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 290
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_256
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 290
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_257
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 290
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_258
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 289
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_259
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 289
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_260
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 289
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_261
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 289
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_262
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 289
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_263
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 289
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_264
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 169
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_265
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 246
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_266
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 246
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_267
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 246
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_268
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 246
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_269
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 246
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_270
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 169
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_271
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 169
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_272
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 169
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_273
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 169
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_274
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 169
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_275
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 169
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_276
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 169
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_277
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 169
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_278
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 169
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_279
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 169
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_280
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 213
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_281
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 213
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_282
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 213
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_283
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 169
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_284
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 169
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_285
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_286
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 84
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_287
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 84
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_288
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 85
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_289
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 85
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_290
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 85
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_291
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 85
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_292
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 85
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_293
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 85
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_294
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 85
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_295
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 85
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_296
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 85
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_297
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 252
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_298
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_299
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_300
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 335
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_301
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 0
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_302
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 0
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BLOCKS_vertical_303
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
