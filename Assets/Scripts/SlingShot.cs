@@ -145,7 +145,7 @@ public class SlingShot : MonoBehaviour
         //BirdToThrow.GetComponent<Rigidbody2D>().AddForce
         //    (new Vector2(v2.x, v2.y) * ThrowSpeed * distance * 300 * Time.deltaTime);
         //set the velocity
-        BirdToThrow.GetComponent<Rigidbody2D>().velocity = new Vector2(velocity.x, velocity.y) * ThrowSpeed * distance;
+        BirdToThrow.GetComponent<Rigidbody2D>().linearVelocity = new Vector2(velocity.x, velocity.y) * ThrowSpeed * distance;
 
 
         //notify interested parties that the bird was thrown

@@ -22,10 +22,10 @@ public class yellowBird : Bird
 			if (State == BirdState.Thrown && Collided == false && Boosted == false) 
 			{
 				Boosted = true;
-				Vector2 Velocity = GetComponent<Rigidbody2D>().velocity;
+				Vector2 Velocity = GetComponent<Rigidbody2D>().linearVelocity;
 				float velocityX = Velocity.x + (15*Velocity.x / (Velocity.x + Velocity.y));
 				float velocityY = Velocity.y + (15*Velocity.y / (Velocity.x + Velocity.y));
-				GetComponent<Rigidbody2D>().velocity = new Vector2(velocityX, velocityY);
+				GetComponent<Rigidbody2D>().linearVelocity = new Vector2(velocityX, velocityY);
 				GetComponent<SpriteRenderer>().sprite = SpriteShownWhenBoosted;
 			}
 		}

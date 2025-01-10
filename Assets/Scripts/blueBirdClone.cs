@@ -19,6 +19,6 @@ public class blueBirdClone : Bird
 		normalSprite = GetComponent<SpriteRenderer> ().sprite;
 		OnThrow ();
 		transform.position = startPosition;
-		GetComponent<Rigidbody2D> ().velocity = startVelocity;
+		GetComponent<Rigidbody2D> ().linearVelocity = startVelocity;
 	}
 }

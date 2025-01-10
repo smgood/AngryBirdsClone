@@ -28,7 +28,7 @@ public class blueBird : Bird
 			if (State == BirdState.Thrown && Collided == false && Cloned == false) 
 			{
 				Vector2 currentPosition = transform.position;
-				Vector2 currentVelocity = GetComponent<Rigidbody2D>().velocity;
+				Vector2 currentVelocity = GetComponent<Rigidbody2D>().linearVelocity;
 				Cloned = true;
 
 				blueBirdUp = Instantiate(blueBirdClones) as GameObject;

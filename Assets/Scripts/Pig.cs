@@ -30,9 +30,9 @@ public class Pig : MonoBehaviour
 			if (col.gameObject.GetComponent<Rigidbody2D>() == null) 
 				velocity1 = new Vector2(0,0);
 			else
-				velocity1 = col.gameObject.GetComponent<Rigidbody2D> ().velocity;
+				velocity1 = col.gameObject.GetComponent<Rigidbody2D> ().linearVelocity;
 			
-			Vector2 velocity2 = GetComponent<Rigidbody2D> ().velocity;
+			Vector2 velocity2 = GetComponent<Rigidbody2D> ().linearVelocity;
 			float damage = Mathf.Sqrt(Mathf.Pow(velocity2.x - velocity1.x, 2) + Mathf.Pow(velocity2.y - velocity1.y,2)) * 10;
 
 			Health -= damage;
